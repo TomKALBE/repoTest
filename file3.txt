@@ -1,1 +1,4 @@
 Super vim en vrai
+A
+B
+e
